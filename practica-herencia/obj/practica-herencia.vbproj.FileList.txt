@@ -1,0 +1,9 @@
+bin\Debug\practica-herencia.exe
+bin\Debug\practica-herencia.pdb
+bin\Debug\practica-herencia.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\practica_herencia.Resources.resources
+obj\Debug\practica-herencia.vbproj.GenerateResource.Cache
+obj\Debug\practica-herencia.exe
+obj\Debug\practica-herencia.xml
+obj\Debug\practica-herencia.pdb
